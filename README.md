@@ -8,7 +8,7 @@ The kit consists of the following components:
 
 - **Custom-Designed CapTFT Enclosure**: Redesigns the top lid based on [CapTFT V2](https://github.com/Prokuon/CardputerADV_Cap_TFT_V2), and increases the maximum screen opening angle from 120° to 135°;
 - **Protective Base**: Secured via two of the LEGO-compatible holes on the bottom of the CardputerAdv. It integrates two latches to lock the screen lid securely in place when closed, along with a lanyard hole;
-- **Adjustable Kickstand**: Installed using the remaining two LEGO-compatible holes on the bottom. It supports multi-angle positioning, and the hinge damping can be tuned via the adjustment bolt
+- **Adjustable Kickstand**: Installed using the remaining two LEGO-compatible holes on the bottom. The hinge damping can be tuned via the adjustment bolt
 
 ![](assets/20260914220759.jpg)
 

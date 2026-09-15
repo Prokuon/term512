@@ -8,7 +8,7 @@ TERM512 是为 [AREA512](https://github.com/engneer-hamachan/area512) 固件定�
 
 - 定制设计的 CapTFT: 基于 [CapTFT V2](https://github.com/Prokuon/CardputerADV_Cap_TFT_V2) 重新设计了 A 面, 并将屏幕的最大开合角度由 120° 增加到了 135°;
 - 保护底座: 利用 CardputerAdv 底部的两个乐高兼容孔固定, 集成了两个锁扣, 用于在闭合时锁定屏幕盖板, 此外还包含一个挂绳孔;
-- 可调阻尼支架: 安装在底部的另外两个乐高兼容孔上, 支持多角度悬停, 并可通过螺栓调节转动阻尼
+- 可调阻尼支架: 安装在底部的另外两个乐高兼容孔上, 可通过螺栓调节转动阻尼
 
 ![](assets/20260914220759.jpg)
 
