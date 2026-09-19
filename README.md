@@ -10,7 +10,7 @@ The kit consists of the following components:
 - **Protective Base**: Secured via two of the LEGO-compatible holes on the bottom of the CardputerAdv. It integrates two latches to lock the screen lid securely in place when closed, along with a lanyard hole;
 - **Adjustable Kickstand**: Installed using the remaining two LEGO-compatible holes on the bottom. The hinge damping can be tuned via the adjustment bolt
 
-![](assets/20260914220759.jpg)
+![](assets/20260919124702.jpg)
 
 ![](assets/20260914220814.jpg)
 
